@@ -305,5 +305,8 @@ a.link-to-book:hover {
         font-weight: bold;
         color:red;
     }
-
+    .l-footer {
+    margin-right: 1.25em;
+        flex: 1 0px;
+}
 }
